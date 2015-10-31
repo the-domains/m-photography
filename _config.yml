@@ -1,7 +1,7 @@
 name: M Photography
 favicon: null
-layout_spectrum: 0.3302572106476873
-typography_spectrum: 0.4361652838997543
+layout_spectrum: 1
+typography_spectrum: 0.53801
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#ffffff'
   brandStrength: 0.6875
   lightness: 0.8394078926648945
-  saturation: 0.6075885843019933
+  saturation: 0.5625
   rhythmicContrast: 0.8725165964569896
 purpose: []
