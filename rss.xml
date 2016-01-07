@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[10:10 Photography]]></title>
         <description><![CDATA[10:10 Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/m-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 23:32:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 01:59:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/m-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5db3de6-ff37-477b-816f-c70fdd74aba7.png" alt="" title="">]]></description>
-            <link>undefined1157ffc3-57b2-4e9b-841f-6bfda48e188f/index.html</link>
+            <link>https://thegrid.ai/m-photography/1157ffc3-57b2-4e9b-841f-6bfda48e188f/index.html</link>
             <guid isPermaLink="false">1157ffc3-57b2-4e9b-841f-6bfda48e188f</guid>
-            <pubDate>Sun, 20 Dec 2015 23:32:48 GMT</pubDate>
+            <pubDate>Thu, 07 Jan 2016 01:59:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
