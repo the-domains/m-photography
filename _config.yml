@@ -1,29 +1,41 @@
-name: M Photography
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.51502
 title: M Studios
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0
+  lightness: 0.6231343
+  brandColors:
+    - '#111516'
+    - '#515058'
+    - '#FFFBF8'
+    - '#62C558'
+    - '#FF3E84'
+  rhythmicContrast: 0.4500933
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: M Photography
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3f4040'
-    - '#040707'
-    - '#929291'
-    - '#e67425'
-    - '#ffffff'
-  brandStrength: 0
-  lightness: 0.4375
-  saturation: 1
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.1231343
+layout_spectrum: 0.4361008
